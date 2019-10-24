@@ -1,0 +1,12 @@
+# Directories
+.vs/
+bin/
+build/
+examples/
+
+# Files
+*.user
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+*.sln
