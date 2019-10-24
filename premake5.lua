@@ -47,7 +47,8 @@ project "Hydrangea"
 			"%{prj.name}/include",
 			"vendor/SFML/include",
 			"vendor/spdlog/include",
-			"vendor/V-REP"
+			"vendor/V-REP/include",
+			"vendor/V-REP/remoteAPI"
 		}
 		libdirs {
 			"vendor/SFML/lib"
